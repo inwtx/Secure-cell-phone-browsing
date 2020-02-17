@@ -48,9 +48,14 @@ Set 'Nickname' anything (or to the same as your above 'username@hostname:port' f
 Set 'Use pubkey authentication' to 'Use any unlocked key'.<br>
 Set 'DEL Key' to 'Delete'.<br>
 Turn on all switches to right.<br>
-Ignore 'Post-login automation'.</b>
+Ignore 'Post-login automation'.
 <br><br>
 Press the plus (+) in the upper right corner of the ConnectBot interface to save.</b><br>
 <p align="left"><br><br>
   <img src="/images/scene7.png" width="600" height="2653">
+</p>
+<br><br>
+<b><b>C. Now you need to set Port Forwarding for your new Host for ConnectBot to correctly work.</b>
+<p align="left"><br><br>
+  <img src="/images/scene7.png" width="720" height="947">
 </p>
