@@ -59,3 +59,5 @@ Press the plus (+) in the upper right corner of the ConnectBot interface to save
 <p align="left"><br><br>
   <img src="/images/scene8.png" width="720" height="947">
 </p>
+<br><br>
+This tutorial is not complete - stand by.
