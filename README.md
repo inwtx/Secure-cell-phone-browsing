@@ -55,7 +55,7 @@ Press the plus (+) in the upper right corner of the ConnectBot interface to save
   <img src="/images/scene7.png" width="600" height="2653">
 </p>
 <br><br>
-<b><b>C. Now you need to set Port Forwarding for your new Host for ConnectBot to correctly work.</b>
+<b><b>C. Now you need to setup Port Forwarding for your new Host for ConnectBot to correctly work.</b>
 <p align="left"><br><br>
   <img src="/images/scene8.png" width="720" height="947">
 </p>
