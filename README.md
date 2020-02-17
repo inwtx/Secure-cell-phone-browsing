@@ -44,11 +44,11 @@ This spying can be circumvented with the use of the android Firefox client and t
   Example: william@204.45.80.117:22</b>
 <br>
 Continuing down the Host connection entry page:
-Set 'Nickname' anything (or to the same as your above 'username@hostname:port' for clarity).
-Set 'Use pubkey authentication' to 'Use any unlocked key'
-Set 'DEL Key' to 'Delete'
-Turn on all switches to right.
-Ignore 'Post-login automation'
+Set 'Nickname' anything (or to the same as your above 'username@hostname:port' for clarity).<br>
+Set 'Use pubkey authentication' to 'Use any unlocked key'.<br>
+Set 'DEL Key' to 'Delete'.<br>
+Turn on all switches to right.<br>
+Ignore 'Post-login automation'.<br>
   
 
 <p align="left"><br><br>
