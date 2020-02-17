@@ -77,4 +77,9 @@ Click and hold down on your new server Host line until a menu pops up and click 
 <p align="left"><br><br>
   <img src="/images/scene11.png" width="360" height="537">
 </p>
-This tutorial is not complete - stand by.
+<br><br>
+<b>To connect to your server, simply tap on the server name in ConnectBot.</b><br>
+<b>Test that your connection is actually going to your server by going to a server IP test site:<br>
+https://ipleak.net/<br>
+  https://whatismyipaddress.com/<br>
+</b><br>
