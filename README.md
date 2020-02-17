@@ -44,7 +44,7 @@ Example: william@204.45.80.117:22<br>
 You can check the parameters out by clicking the down button in the square orange box.
 <br><br>
 Continuing down the Host connection entry page:<br>
-Set 'Nickname' anything (or to the same as your above 'username@hostname:port' for clarity).<br>
+Set 'Nickname' to anything (or to the same as your above 'username@hostname:port' for clarity).<br>
 Set 'Use pubkey authentication' to 'Use any unlocked key'.<br>
 Set 'DEL Key' to 'Delete'.<br>
 Turn on all switches to right.<br>
