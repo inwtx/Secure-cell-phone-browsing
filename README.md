@@ -55,10 +55,18 @@ Press the plus (+) in the upper right corner of the ConnectBot interface to save
   <img src="/images/scene7.png" width="360" height="1326">
 </p>
 <br><br>
-<b><b>C. This is what your new server will look like in ConnectBot after it has been created.<br>
-Now you need to setup Port Forwarding for your new Host for ConnectBot to correctly work.</b>
+<b>C. This is what your new server will look like in ConnectBot after it has been created.</b><br>
 <p align="left"><br><br>
-  <img src="/images/scene13.png" width="360" height="243">
+  <img src="/images/scene112.png" width="360" height="243">
 </p>
 <br><br>
+<b>D. Now you need to set up Port Forwarding for your new Host for ConnectBot to correctly work.</b>
+
+<p align="left"><br><br>
+  <img src="/images/scene112.png" width="360" height="243">
+</p>
+<b>E. Click and hold down on your new server Host line until a menu pops up.</b>
+
+</b>
+
 This tutorial is not complete - stand by.
