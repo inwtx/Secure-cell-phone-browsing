@@ -50,7 +50,7 @@ Set 'DEL Key' to 'Delete'.<br>
 Turn on all switches to right.<br>
 Ignore 'Post-login automation'.</b>
 <br><br>
-Press the plus (+) in the upper right corner of the ConnectBot to save.<br>
+Press the plus (+) in the upper right corner of the ConnectBot interface to save.</b><br>
 <p align="left"><br><br>
   <img src="/images/scene7.png" width="600" height="2653">
 </p>
