@@ -11,33 +11,33 @@ This spying can be circumvented with the use of the android Firefox client and t
   
 <b>A. Go to the Google Play Store, type Firefox in the search box, and download the Firefox browser and install it.  The one you want is outlined in the red box:</b> 
 <p align="left">
-  <img src="/images/scene1.png" width="720" height="434">
+  <img src="/images/scene1.png" width="360" height="217">
 </p>
 <br>
 <b>B. Go again to the Google Play Store, type ConnectBot in the search box, and download ConnectBot and install it.</b>
 <br><br>
 <p align="left">
-  <img src="/images/scene2.png" width="720" height="434">
+  <img src="/images/scene2.png" width="360" height="217">
 </p>
 
 <b><i>II. Firefox setup instructions:</i></b>
 <br><br>
 <b>A. Start Firefix and type about:config in the URL box. Then type .proxy. in the search box.</b>
 <p align="left">
-  <img src="/images/scene3.png" width="720" height="265">
+  <img src="/images/scene3.png" width="360" height="132">
 </p>
 <br>
-<b>A. Go down and find the the various fields and set then to those displayed here.</b>
+<b>B. Go down and find the the various fields and set then to those displayed here.</b>
 <p align="left"><br><br>
-  <img src="/images/scene4.png" width="720" height="2324">
+  <img src="/images/scene4.png" width="360" height="1162">
 </p>
-<b>B. That is all that is needed for Firefox. Close it for now.</b>
+<b>C. That is all that is needed for Firefox. Close it for now.</b>
 <br><br>
 <b><i>III. ConnectBot setup instructions:</i></b>
 <br><br>
 <b>A. Start ConnectBot and click on the plus sign at the bottom to setup a Host connection.</b>
 <p align="left"><br><br>
-  <img src="/images/scene5.png" width="720" height="635">
+  <img src="/images/scene5.png" width="360" height="317">
 </p>
 <b>B. In the top 'username@hostname:port' box, type in your username for the server, followed by an @ sign, followed by your server's IP address, followed by a semicolon (:), followed by your server's connection port (usually 22).<br>
 Example: william@204.45.80.117:22<br>
@@ -52,12 +52,13 @@ Ignore 'Post-login automation'.
 <br><br>
 Press the plus (+) in the upper right corner of the ConnectBot interface to save.</b><br>
 <p align="left"><br><br>
-  <img src="/images/scene7.png" width="600" height="2653">
+  <img src="/images/scene7.png" width="360" height="1326">
 </p>
 <br><br>
-<b><b>C. Now you need to setup Port Forwarding for your new Host for ConnectBot to correctly work.</b>
+<b><b>C. This is what your new server will look like in ConnectBot after it has been created.<br>
+Now you need to setup Port Forwarding for your new Host for ConnectBot to correctly work.</b>
 <p align="left"><br><br>
-  <img src="/images/scene8.png" width="720" height="947">
+  <img src="/images/scene13.png" width="360" height="243">
 </p>
 <br><br>
 This tutorial is not complete - stand by.
