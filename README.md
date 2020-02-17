@@ -39,16 +39,16 @@ This spying can be circumvented with the use of the android Firefox client and t
 <p align="left"><br><br>
   <img src="/images/scene5.png" width="720" height="635">
 </p>
-<b>B. In the top 'username@hostname:port' box, type in your username for the server, followed by an @ sign, followed by your server's IP address, followed by a semicolon (:), followed by your server's connection port (usually 22). You can check the parameters out by clicking the down button in the square orange box.
-<br>
-  Example: william@204.45.80.117:22</b>
-<br>
-Continuing down the Host connection entry page:
+<b>B. In the top 'username@hostname:port' box, type in your username for the server, followed by an @ sign, followed by your server's IP address, followed by a semicolon (:), followed by your server's connection port (usually 22).<br>
+Example: william@204.45.80.117:22<br>
+You can check the parameters out by clicking the down button in the square orange box.
+<br><br>
+Continuing down the Host connection entry page:<br>
 Set 'Nickname' anything (or to the same as your above 'username@hostname:port' for clarity).<br>
 Set 'Use pubkey authentication' to 'Use any unlocked key'.<br>
 Set 'DEL Key' to 'Delete'.<br>
 Turn on all switches to right.<br>
-Ignore 'Post-login automation'.<br>
+Ignore 'Post-login automation'.<br></b>
   
 
 <p align="left"><br><br>
