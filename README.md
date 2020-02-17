@@ -18,19 +18,21 @@ This spying can be circumvented with the use of the android Firefox client and t
 <br><br>
 <p align="left">
   <img src="/images/scene2.png" width="720" height="434">
-</p><br><br><br>
+</p>
 
 <b><i>II. Firefox setup instructions:</i></b>
-<br>
+<br><br>
 <b>A. Start Firefix and type about:config in the URL box. Then type .proxy. in the search box.</b>
 <p align="left">
   <img src="/images/scene3.png" width="720" height="265">
 </p>
-<br><br>
+
 <b>A. Go down and find the the various fields and set then to those displayed here.</b>
 <p align="left"><br><br>
   <img src="/images/scene4.png" width="720" height="2324">
 </p>
-<br><br>
+<br>
+<b>B. That is all that is needed for Firefox. Close it for now.</b>
 
-  
+<b><i>III. ConnectBot setup instructions:</i></b>
+<br><br>
