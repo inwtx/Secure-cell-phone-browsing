@@ -66,8 +66,10 @@ Click and hold down on your new server Host line until a menu pops up and click 
 <p align="left"><br><br>
   <img src="/images/scene8.png" width="360" height="473">
 </p>
-<b>E. </b>
-
-</b>
+<b>E. Then click on the round plus (+) button.</b>
+<p align="left"><br><br>
+  <img src="/images/scene10.png" width="360" height="412">
+</p>
+<b>E. Then click on the round plus (+) button.</b>
 
 This tutorial is not complete - stand by.
