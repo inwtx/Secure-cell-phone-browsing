@@ -41,5 +41,5 @@ This spying can be circumvented with the use of the android Firefox client and t
 </p>
 <b>B. Start ConnectBot and click on the plus sign at the bottom to setup a connection.</b>
 <p align="left"><br><br>
-  <img src="/images/scene5.png" width="720" height="635">
+  <img src="/images/scene7.png" width="720" height="2653">
 </p>
