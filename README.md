@@ -22,12 +22,9 @@ This spying can be circumvented with the use of the android Firefox client and t
       
 <b><i>II. Firefox setup instructions:</i></b>
     
-A. Start Firefix and type about:config into the URL box.</b>
+<b>A. Start Firefix and type about:config into the URL box.</b>
 <p align="left">
   <img src="/images/scene3.png" width="720" height="434">
 </p>
-    
-  <p align="left">
-  <img src="/images/scene3.png" width="720" height="265">
-</p>
+
   
