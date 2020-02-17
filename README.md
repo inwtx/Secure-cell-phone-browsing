@@ -75,6 +75,6 @@ Click and hold down on your new server Host line until a menu pops up and click 
 <b>For Source port, enter 9500.</b><br>
 <b>Click 'Change' and your finished.</b><br>
 <p align="left"><br><br>
-  <img src="/images/scene11b.png" width="360" height="537">
+  <img src="/images/scene11.png" width="360" height="537">
 </p>
 This tutorial is not complete - stand by.
