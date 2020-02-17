@@ -71,16 +71,17 @@ Click and hold down on your new server Host line until a menu pops up and click 
   <img src="/images/scene9.png" width="360" height="269">
 </p>
 <b>F. Then enter anything for the Nickname.</b><br>
-<b>Click on the down arrow and select 'Dynamic (SOCKS)'.</b><br>
+<b>Click on the down arrow (orange box) and select 'Dynamic (SOCKS)'.</b><br>
 <b>For Source port, enter 9500.</b><br>
 <b>Click 'Change' and your finished.</b><br>
 <p align="left"><br><br>
   <img src="/images/scene11.png" width="360" height="537">
 </p>
 <br><br>
-<b>To connect to your server, simply tap on the server name in ConnectBot.</b><br>
+<b>G. To connect to your server, simply tap on the server name in ConnectBot.</b><br>
 <b>You will probably taken to a page that request your Password.</b><br>
 <b>Test that your connection is actually going to your server by going to a server IP test site:<br>
 https://ipleak.net/<br>
-  https://whatismyipaddress.com/<br>
-</b><br>
+https://whatismyipaddress.com/<br><br>
+If you are shown anything other than the IP number you used in your Host set up, you are not going through your Host.<br>
+Recheck your set up parameters and try again.
