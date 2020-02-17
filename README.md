@@ -68,14 +68,11 @@ Click and hold down on your new server Host line until a menu pops up and click 
 </p>
 <b>E. Then click on the round plus (+) button.</b>
 <p align="left"><br><br>
-  <img src="/images/scene9.png" width="360" height="412">
+  <img src="/images/scene9.png" width="360" height="269">
 </p>
 <b>F. Then enter anything for the Nickname.</b><br>
 <b>Click on the down arrow and select 'Dynamic (SOCKS)'.</b><br>
 <b>For Source port, enter 9500.</b><br>
-<p align="left"><br><br>
-  <img src="/images/scene10.png" width="360" height="412">
-</p>
 <p align="left"><br><br>
   <img src="/images/scene11b.png" width="360" height="537">
 </p>
