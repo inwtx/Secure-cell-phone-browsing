@@ -7,7 +7,7 @@ This spying can be circumvented with the use of the android Firefox client and t
   
   
     
-<b>I. Download instructions:</b>
+<b><i>I. Download instructions:</i></b>
     
   
 <b>A.</b> Go to the Google Play Store, type Firefox in the search box, and download the Firefox browser and install it.  The one you want is outlined in the red box: 
@@ -19,17 +19,13 @@ This spying can be circumvented with the use of the android Firefox client and t
 <p align="left">
   <img src="/images/scene2.png" width="720" height="434">
 </p>
+      
+<b><i>II. Firefox setup instructions:</i></b>
     
-<b>II. Firefox setup instructions:</b>
-    
-A. Start Firefix and type about:config into the URL box.
+A. Start Firefix and type about:config into the URL box.</b>
 <p align="left">
   <img src="/images/scene3.png" width="720" height="434">
 </p>
-    
-    
-    
-    
     
   <p align="left">
   <img src="/images/scene3.png" width="720" height="265">
