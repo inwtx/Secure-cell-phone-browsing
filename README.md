@@ -1,9 +1,9 @@
 # Secure-cell-phone-browser
 Instructions on how to set up secure browsing on a cell phone with Firefox and ConnectBot.  
   
-To prevent Google, your phone company, and any wifi location you use from spying on your web browsing, you need to connect to a personally owned server, an SSH service, a rented Virtual Private Server, or a Virtual Private Network service.  Although there are some VPNs in the Google Play Store that are available for use with your phone, it is assumed that they are scraping information from your web browsing. 
+To prevent Google, your phone company, and any wifi location you use from spying on your web browsing, you need to connect to a personally owned server, an SSH service, a rented Virtual Private Server, or a Virtual Private Network.  Although there are some VPNs in the Google Play Store that are available for use with your phone, it is assumed that they are scraping information from your web browsing. 
   
-This spying can be circumvented with the use of the android Firefox client and the ConnectBot SSH client.  As long as you can obtain your remote server's IP address and its SSH port (usually 80), then you can use these two apps to securely brows the internet anywhere. Firefox is currently the only browser that allows you to change its proxy settings, whereby you can connect to/through ConnectBot.   
+This spying can be circumvented with the use of the android Firefox client and the ConnectBot SSH client.  As long as you can obtain your remote server's IP address and its SSH port (usually 22), then you can use these two apps to securely brows the internet anywhere. Firefox is currently the only browser that allows you to change its proxy settings, whereby you can connect to/through ConnectBot.   
   
   
 <b><i>I. Download instructions:</i></b>
@@ -19,15 +19,15 @@ This spying can be circumvented with the use of the android Firefox client and t
 <p align="left">
   <img src="/images/scene2.png" width="360" height="217">
 </p>
-
-<b><i>II. Firefox setup instructions:</i></b>
+<br>
+<b><i>II. Firefox set up instructions:</i></b>
 <br><br>
 <b>A. Start Firefix and type about:config in the URL box. Then type .proxy. in the search box.</b>
 <p align="left">
   <img src="/images/scene3.png" width="360" height="132">
 </p>
 <br>
-<b>B. Go down and find the the various fields and set then to those displayed here.</b>
+<b>B. Go down the list and find the the various fields and set then to those displayed below.</b>
 <p align="left"><br><br>
   <img src="/images/scene4.png" width="360" height="1162">
 </p>
@@ -80,8 +80,8 @@ Click and hold down on your new server Host line until a menu pops up and click 
 <br><br>
 <b>G. To connect to your server, simply tap on the server name in ConnectBot.</b><br>
 <b>You will probably taken to a page that request your Password.</b><br>
-<b>Test that your connection is actually going to your server by going to a server IP test site:<br>
+<b>Test that your connection is actually going to your server by going to an IP test site:<br>
 https://ipleak.net/<br>
 https://whatismyipaddress.com/<br><br>
 If you are shown anything other than the IP number you used in your Host set up, you are not going through your Host.<br>
-Recheck your set up parameters and try again.
+Recheck your set up parameters and try again.<br>
