@@ -61,7 +61,7 @@ Press the plus (+) in the upper right corner of the ConnectBot interface to save
 </p>
 <br><br>
 <b>D. Now you need to set up Port Forwarding for your new Host for ConnectBot to correctly work.<br>
-Click and hold down on your new server Host line until a menu pops up.</b>
+Click and hold down on your new server Host line until a menu pops up and click on 'Edit port forwards'.</b>
 
 <p align="left"><br><br>
   <img src="/images/scene8.png" width="360" height="473">
