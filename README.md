@@ -39,7 +39,8 @@ This spying can be circumvented with the use of the android Firefox client and t
 <p align="left"><br><br>
   <img src="/images/scene5.png" width="720" height="635">
 </p>
-<b>B. Start ConnectBot and click on the plus sign at the bottom to setup a connection.</b>
+<b>B. In the top 'username@hostname:port' box, type in your username for the server, followed by an @ sign, followed by your server's IP address, followed by a semicolon (:), followed by your server's connection port (usually 22).<br>
+Example: william@204.45.80.117:80</b>
 <p align="left"><br><br>
-  <img src="/images/scene7.png" width="720" height="2653">
+  <img src="/images/scene7.png" width="600" height="2653">
 </p>
