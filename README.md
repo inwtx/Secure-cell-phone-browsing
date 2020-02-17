@@ -35,12 +35,22 @@ This spying can be circumvented with the use of the android Firefox client and t
 <br><br>
 <b><i>III. ConnectBot setup instructions:</i></b>
 <br><br>
-<b>A. Start ConnectBot and click on the plus sign at the bottom to setup a connection.</b>
+<b>A. Start ConnectBot and click on the plus sign at the bottom to setup a Host connection.</b>
 <p align="left"><br><br>
   <img src="/images/scene5.png" width="720" height="635">
 </p>
-<b>B. In the top 'username@hostname:port' box, type in your username for the server, followed by an @ sign, followed by your server's IP address, followed by a semicolon (:), followed by your server's connection port (usually 22).<br>
-Example: william@204.45.80.117:80</b>
+<b>B. In the top 'username@hostname:port' box, type in your username for the server, followed by an @ sign, followed by your server's IP address, followed by a semicolon (:), followed by your server's connection port (usually 22). You can check the parameters out by clicking the down button in the square orange box.
+<br>
+  Example: william@204.45.80.117:22</b>
+<br>
+Continuing down the Host connection entry page:
+Set 'Nickname' anything (or to the same as your above 'username@hostname:port' for clarity).
+Set 'Use pubkey authentication' to 'Use any unlocked key'
+Set 'DEL Key' to 'Delete'
+Turn on all switches to right.
+Ignore 'Post-login automation'
+  
+
 <p align="left"><br><br>
   <img src="/images/scene7.png" width="600" height="2653">
 </p>
