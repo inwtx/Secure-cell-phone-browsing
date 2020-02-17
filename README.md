@@ -1,2 +1,2 @@
-# Secure-cell-phone-browsing
-Instructions on how to setup secure browsing on a cell phone.
+# Secure-cell-phone-browser
+Instructions on how to setup secure browsing on a cell phone with Firefox and ConnectBot.
