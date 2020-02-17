@@ -1,5 +1,5 @@
 # Secure-cell-phone-browser
-Instructions on how to setup secure browsing on a cell phone with Firefox and ConnectBot.  
+Instructions on how to set up secure browsing on a cell phone with Firefox and ConnectBot.  
   
 To prevent Google, your phone company, and any wifi location you use from spying on your web browsing, you need to connect to a personally owned server, an SSH service, a rented Virtual Private Server, or a Virtual Private Network service.  Although there are some VPNs in the Google Play Store that are available for use with your phone, it is assumed that they are scraping information from your web browsing. 
   
