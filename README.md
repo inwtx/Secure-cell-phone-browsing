@@ -66,7 +66,7 @@ Press the plus (+) in the upper right corner of the ConnectBot interface to save
 <br>
 <b>D. Now you need to set up Port Forwarding for your new Host for ConnectBot to correctly work.<br>
 Click and hold down on your new server Host line until a menu pops up and click on 'Edit port forwards'.</b><br>
-
+<br>
 <p align="left">
   <img src="/images/scene8.png" width="360" height="473">
 </p>
@@ -85,7 +85,7 @@ Click and hold down on your new server Host line until a menu pops up and click 
 <p align="left">
   <img src="/images/scene11.png" width="360" height="537">
 </p>
-<br><br>
+<br>
 <b>G. To connect to your server, simply tap on the server name in ConnectBot (as seen in C. above).</b><br>
 <b>You will probably taken to a page that request your Password.</b><br>
 <b>Test that your connection is actually going to your server by going to an IP test site:<br>
