@@ -28,7 +28,7 @@ This spying can be circumvented with the use of the android Firefox client and t
   <img src="/images/scene3.png" width="360" height="132">
 </p>
 <br>
-<b>B. Go down the list that appears and find the the various fields and set then to those displayed below.</b>
+<b>B. Go down the list that appears and find the various fields and set then to those displayed below. Disregard any additional .proxy. fields that are displayed that are not in the below list.</b>
 <p align="left"><br><br>
   <img src="/images/scene4.png" width="360" height="1162">
 </p>
@@ -49,7 +49,7 @@ Continuing down the 'Edit Host' connection entries page:<br>
 Tap on and set 'Nickname' to anything (or to the same as your above 'username@hostname:port' for clarity).<br>
 Set 'Use pubkey authentication' to 'Use any unlocked key'.<br>
 Set 'DEL Key' to 'Delete'.<br>
-Turn on all switches to right ('Start shell session' can be left off).<br>
+Set ON all blue switches to the right ('Start shell session' can be left off).<br>
 Ignore 'Post-login automation'.<br>
 <br>
 Press the plus (+) in the upper right corner of the ConnectBot interface to save.</b><br>
