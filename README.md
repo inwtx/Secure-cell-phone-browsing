@@ -78,7 +78,6 @@ Click and hold down on your new server Host line until a menu pops up and click 
 </p>
 <br>
 <b>F. Then enter anything for the Nickname.</b><br>
-<br>
 <b>Click on the down arrow (orange box) and select 'Dynamic (SOCKS)'.</b><br>
 <b>For Source port, enter 9500.</b><br>
 <b>Click 'Change' and your finished.</b><br>
