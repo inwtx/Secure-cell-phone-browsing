@@ -52,7 +52,7 @@ Set 'DEL Key' to 'Delete'.<br>
 Set ON all blue switches to the right ('Start shell session' can be left off).<br>
 Ignore 'Post-login automation'.<br>
 <br>
-Press the plus (+) in the upper right corner of the ConnectBot interface to save.</b><br>
+Tap the plus (+) in the upper right corner of the ConnectBot interface to save.</b><br>
 <br>
 <p align="left">
   <img src="/images/scene7.png" width="360" height="1326">
