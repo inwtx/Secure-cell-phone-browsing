@@ -64,8 +64,8 @@ Press the plus (+) in the upper right corner of the ConnectBot interface to save
   <img src="/images/scene112.png" width="360" height="243">
 </p>
 <br>
-<b>D. Now you need to set up Port Forwarding for your new Host for ConnectBot to correctly work.<br>
-Click and hold down on your new server Host line until a menu pops up and click on 'Edit port forwards'.</b><br>
+<b>D. Now you need to set up Port Forwarding for your new Host for ConnectBot to correctly connect.<br>
+Tap and hold down on your new server Host line until a menu pops up and tap on 'Edit port forwards'.</b><br>
 <br>
 <p align="left">
   <img src="/images/scene8.png" width="360" height="473">
@@ -88,8 +88,8 @@ Click and hold down on your new server Host line until a menu pops up and click 
 <br>
 <b>G. To connect to your server, simply tap on the server name in ConnectBot (as seen in C. above).</b><br>
 <b>You will probably taken to a page that request your Password.</b><br>
-<b>Test that your connection is actually going to your server by going to an IP test site:<br>
-https://ipleak.net/<br>
-https://whatismyipaddress.com/<br><br>
-If you are shown anything other than the IP number you used in your Host set up, you are not going through your Host.<br>
+<b>Use Firefox to test that your connection is actually going to your server by going to an IP test site:<br>
+https://whatismyipaddress.com/<br>
+https://ipleak.net/<br><br>
+If you are shown any IP address other than the IP address you used in your Host set up, you are not going through your Host.<br>
 Recheck your set up parameters and try again.<br>
