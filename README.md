@@ -45,7 +45,7 @@ This spying can be circumvented with the use of the android Firefox client and t
 Example: william@204.45.80.117:22<br>
 You can check the parameters out by clicking the down button in the square orange box.<br>
 <br>
-Continuing down the Host connection entry page:<br>
+Continuing down the 'Edit Host' connection entries page:<br>
 Tap on and set 'Nickname' to anything (or to the same as your above 'username@hostname:port' for clarity).<br>
 Set 'Use pubkey authentication' to 'Use any unlocked key'.<br>
 Set 'DEL Key' to 'Delete'.<br>
@@ -80,7 +80,7 @@ Tap and hold down on your new server Host line until a menu pops up and tap on '
 <b>F. Then enter anything for the Nickname.</b><br>
 <b>Click on the down arrow (orange box) and select 'Dynamic (SOCKS)'.</b><br>
 <b>For Source port, enter 9500.</b><br>
-<b>Click 'Change' and your finished.</b><br>
+<b>Click 'CHANGE' and your finished.</b><br>
 <br>
 <p align="left">
   <img src="/images/scene11.png" width="360" height="537">
@@ -88,8 +88,8 @@ Tap and hold down on your new server Host line until a menu pops up and tap on '
 <br>
 <b>G. To connect to your server, simply tap on the server name in ConnectBot (as seen in C. above).</b><br>
 <b>You will probably taken to a page that request your Password.</b><br>
-<b>Use Firefox to test that your connection is actually going to your server by going to an IP test site:<br>
+<b>Use Firefox to test that your connection is actually going to your server by using an IP test site:<br>
 https://whatismyipaddress.com/<br>
 https://ipleak.net/<br><br>
-If you are shown any IP address other than the IP address you used in your Host set up, you are not going through your Host.<br>
+If you are shown any IP address other than the IP address you used in your Host set up, you are not going through your Host. 
 Recheck your set up parameters and try again.<br>
