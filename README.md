@@ -34,9 +34,9 @@ This spying can be circumvented with the use of the android Firefox client and t
 </p>
 <b>C. That is all that is needed for Firefox. Close it for now.</b>
 <br><br><br>
-<b><i>III. ConnectBot setup instructions:</i></b>
+<b><i>III. ConnectBot set up instructions:</i></b>
 <br><br>
-<b>A. Start ConnectBot and click on the plus sign at the bottom to setup a Host connection.</b>
+<b>A. Start ConnectBot and click on the plus sign at the bottom to set up a Host connection.</b>
 <p align="left"><br><br>
   <img src="/images/scene5.png" width="360" height="317">
 </p>
