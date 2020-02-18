@@ -63,7 +63,7 @@ Press the plus (+) in the upper right corner of the ConnectBot interface to save
 <p align="left">
   <img src="/images/scene112.png" width="360" height="243">
 </p>
-<br><br>
+<br>
 <b>D. Now you need to set up Port Forwarding for your new Host for ConnectBot to correctly work.<br>
 Click and hold down on your new server Host line until a menu pops up and click on 'Edit port forwards'.</b><br>
 
@@ -71,12 +71,14 @@ Click and hold down on your new server Host line until a menu pops up and click 
   <img src="/images/scene8.png" width="360" height="473">
 </p>
 <br>
-<b>E. Then click on the round plus (+) button.</b>
+<b>E. Then click on the round plus (+) button.</b><br>
+<br>
 <p align="left">
   <img src="/images/scene9.png" width="360" height="269">
 </p>
 <br>
 <b>F. Then enter anything for the Nickname.</b><br>
+<br>
 <b>Click on the down arrow (orange box) and select 'Dynamic (SOCKS)'.</b><br>
 <b>For Source port, enter 9500.</b><br>
 <b>Click 'Change' and your finished.</b><br>
