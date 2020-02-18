@@ -53,11 +53,13 @@ Turn on all switches to right.<br>
 Ignore 'Post-login automation'.<br>
 <br>
 Press the plus (+) in the upper right corner of the ConnectBot interface to save.</b><br>
+<br>
 <p align="left">
   <img src="/images/scene7.png" width="360" height="1326">
 </p>
-<br><br>
+<br>
 <b>C. This is what your new server will look like in ConnectBot after it has been created.</b><br>
+<br>
 <p align="left">
   <img src="/images/scene112.png" width="360" height="243">
 </p>
