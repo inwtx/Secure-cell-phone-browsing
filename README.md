@@ -93,3 +93,6 @@ https://whatismyipaddress.com/<br>
 https://ipleak.net/<br><br>
 If you are shown any IP address other than the IP address you used in your Host set up, you are not going through your Host. 
 Recheck your set up parameters and try again.<br>
+<br>
+Note: The app 'VX ConnectBot' sets up basically the same way, but 'Enable X11 forwarding' should not be checked.<br>
+  <br>
