@@ -3,7 +3,7 @@ Instructions on how to set up secure browsing on a cell phone with Firefox and C
   
 To prevent Google, your phone company, and any wifi location you use from spying on your web browsing, you need to connect to a personally owned server, an SSH service, a rented Virtual Private Server, or a Virtual Private Network.  Although there are some VPNs in the Google Play Store that are available for use with your phone, it is assumed that they are scraping information from your web browsing. 
   
-This spying can be circumvented with the use of the android Firefox client and the ConnectBot SSH client.  As long as you can obtain your remote server's IP address and its SSH port (usually 22), then you can use these two apps to securely brows the internet anywhere. Firefox is currently the only browser that allows you to change its proxy settings, whereby you can connect to/through ConnectBot.   
+This spying can be circumvented with the use of the android Firefox client and the ConnectBot SSH client.  As long as you can obtain your remote server's IP address and its SSH port (usually 22), then you can use these two apps to securely browse the internet anywhere. Firefox is currently the only browser that allows you to change its proxy settings, whereby you can connect to/through ConnectBot.   
   
   
 <b><i>I. Download instructions:</i></b>
