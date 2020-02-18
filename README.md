@@ -1,4 +1,4 @@
-# Secure-cell-phone-browser
+# Secure-cell-phone-browsing
 Instructions on how to set up secure browsing on a cell phone with Firefox and ConnectBot.  
   
 To prevent Google, your phone company, and any wifi location you use from spying on your web browsing, you need to connect to a personally owned server, an SSH service, a rented Virtual Private Server, or a Virtual Private Network.  Although there are some VPNs in the Google Play Store that are available for use with your phone, it is assumed that they are scraping information from your web browsing. 
@@ -9,7 +9,7 @@ This spying can be circumvented with the use of the android Firefox client and t
 <b><i>I. Download instructions:</i></b>
     
   
-<b>A. Go to the Google Play Store, type Firefox in the search box, and download the Firefox browser and install it.  The one you want is outlined in the red box:</b> 
+<b>A. Go to the Google Play Store, type Firefox in the search box, and download the Firefox browser and install it on your phone.  The one you want is outlined in the red box:</b> 
 <p align="left">
   <img src="/images/scene1.png" width="360" height="217">
 </p>
@@ -22,13 +22,13 @@ This spying can be circumvented with the use of the android Firefox client and t
 <br>
 <b><i>II. Firefox set up instructions:</i></b>
 <br><br>
-<b>A. Start Firefix and type about:config in the URL box. Then type .proxy. in the search box.</b>
+<b>A. Start Firefix and type <i>about:config</i> in the URL box. Then type <i>.proxy.</i> in the search box.</b>
 <br><br>
 <p align="left">
   <img src="/images/scene3.png" width="360" height="132">
 </p>
 <br>
-<b>B. Go down the list and find the the various fields and set then to those displayed below.</b>
+<b>B. Go down the list that appears and find the the various fields and set then to those displayed below.</b>
 <p align="left"><br><br>
   <img src="/images/scene4.png" width="360" height="1162">
 </p>
@@ -46,10 +46,10 @@ Example: william@204.45.80.117:22<br>
 You can check the parameters out by clicking the down button in the square orange box.<br>
 <br>
 Continuing down the Host connection entry page:<br>
-Set 'Nickname' to anything (or to the same as your above 'username@hostname:port' for clarity).<br>
+Tap on and set 'Nickname' to anything (or to the same as your above 'username@hostname:port' for clarity).<br>
 Set 'Use pubkey authentication' to 'Use any unlocked key'.<br>
 Set 'DEL Key' to 'Delete'.<br>
-Turn on all switches to right.<br>
+Turn on all switches to right ('Start shell session' can be left off).<br>
 Ignore 'Post-login automation'.<br>
 <br>
 Press the plus (+) in the upper right corner of the ConnectBot interface to save.</b><br>
