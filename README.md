@@ -23,6 +23,7 @@ This spying can be circumvented with the use of the android Firefox client and t
 <b><i>II. Firefox set up instructions:</i></b>
 <br><br>
 <b>A. Start Firefix and type about:config in the URL box. Then type .proxy. in the search box.</b>
+<br><br>
 <p align="left">
   <img src="/images/scene3.png" width="360" height="132">
 </p>
@@ -32,31 +33,32 @@ This spying can be circumvented with the use of the android Firefox client and t
   <img src="/images/scene4.png" width="360" height="1162">
 </p>
 <b>C. That is all that is needed for Firefox. Close it for now.</b>
-<br><br>
+<br><br><br>
 <b><i>III. ConnectBot setup instructions:</i></b>
 <br><br>
 <b>A. Start ConnectBot and click on the plus sign at the bottom to setup a Host connection.</b>
 <p align="left"><br><br>
   <img src="/images/scene5.png" width="360" height="317">
 </p>
+<br>
 <b>B. In the top 'username@hostname:port' box, type in your username for the server, followed by an @ sign, followed by your server's IP address, followed by a semicolon (:), followed by your server's connection port (usually 22).<br>
 Example: william@204.45.80.117:22<br>
-You can check the parameters out by clicking the down button in the square orange box.
-<br><br>
+You can check the parameters out by clicking the down button in the square orange box.<br>
+<br>
 Continuing down the Host connection entry page:<br>
 Set 'Nickname' to anything (or to the same as your above 'username@hostname:port' for clarity).<br>
 Set 'Use pubkey authentication' to 'Use any unlocked key'.<br>
 Set 'DEL Key' to 'Delete'.<br>
 Turn on all switches to right.<br>
-Ignore 'Post-login automation'.
-<br><br>
-Press the plus (+) in the upper right corner of the ConnectBot interface to save.</b><br>
-<p align="left"><br><br>
+Ignore 'Post-login automation'.<br>
+<br>
+Press the plus (+) in the upper right corner of the ConnectBot interface to save.</b>
+<p align="left">
   <img src="/images/scene7.png" width="360" height="1326">
 </p>
 <br><br>
 <b>C. This is what your new server will look like in ConnectBot after it has been created.</b><br>
-<p align="left"><br><br>
+<p align="left">
   <img src="/images/scene112.png" width="360" height="243">
 </p>
 <br><br>
