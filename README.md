@@ -82,6 +82,7 @@ Click and hold down on your new server Host line until a menu pops up and click 
 <b>Click on the down arrow (orange box) and select 'Dynamic (SOCKS)'.</b><br>
 <b>For Source port, enter 9500.</b><br>
 <b>Click 'Change' and your finished.</b><br>
+<br>
 <p align="left">
   <img src="/images/scene11.png" width="360" height="537">
 </p>
