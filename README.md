@@ -87,7 +87,7 @@ Tap and hold down on your new server Host line until a menu pops up and tap on '
 </p>
 <br>
 <b>G. To connect to your server, simply tap on the server name in ConnectBot (as seen in C. above).</b><br>
-<b>You will probably taken to a page that request your Password.</b><br>
+<b>You should be taken to a page that request your Password.</b><br>
 <b>Use Firefox to test that your connection is actually going to your server by using an IP test site:<br>
 https://whatismyipaddress.com/<br>
 https://ipleak.net/<br><br>
