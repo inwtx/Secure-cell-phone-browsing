@@ -58,7 +58,7 @@ Press the plus (+) in the upper right corner of the ConnectBot interface to save
   <img src="/images/scene7.png" width="360" height="1326">
 </p>
 <br>
-<b>C. This is somewhat how your new server will look like in ConnectBot after it has been created.</b><br>
+<b>C. This is somewhat how your new Host will look in ConnectBot after it has been created.</b><br>
 <br>
 <p align="left">
   <img src="/images/scene112.png" width="360" height="243">
