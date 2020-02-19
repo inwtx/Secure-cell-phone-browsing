@@ -45,7 +45,7 @@ This spying can be circumvented with the use of the android Firefox client and t
 Example: william@204.45.80.117:22<br>
 You can check the parameters out by clicking the down button in the square orange box.<br>
 <br>
-Continuing down the 'Edit Host' connection entries page:<br>
+Continuing down the 'Edit Host' entries page:<br>
 Tap on and set 'Nickname' to anything (or to the same as your above 'username@hostname:port' for clarity).<br>
 Set 'Use pubkey authentication' to 'Use any unlocked key'.<br>
 Set 'DEL Key' to 'Delete'.<br>
