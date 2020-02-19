@@ -49,7 +49,7 @@ Continuing down the 'Edit Host' connection entries page:<br>
 Tap on and set 'Nickname' to anything (or to the same as your above 'username@hostname:port' for clarity).<br>
 Set 'Use pubkey authentication' to 'Use any unlocked key'.<br>
 Set 'DEL Key' to 'Delete'.<br>
-Set ON all blue switches to the right ('Start shell session' can be left off).<br>
+Set ON all blue switches to the right ('Start shell session' can be left OFF).<br>
 Ignore 'Post-login automation'.<br>
 <br>
 Tap the plus sign (+) in the upper right corner of the ConnectBot interface to save.</b><br>
