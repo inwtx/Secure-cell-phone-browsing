@@ -32,7 +32,7 @@ This spying can be circumvented with the use of the android Firefox client and t
 <p align="left"><br><br>
   <img src="/images/scene4.png" width="360" height="1162">
 </p>
-<b>C. That is all that is needed for Firefox.</b>
+<b>That is all that is needed for Firefox.</b>
 <br><br><br>
 <b><i>III. ConnectBot set up instructions:</i></b>
 <br><br>
