@@ -86,6 +86,10 @@ Tap and hold down on your new server Host line until a menu pops up and tap on '
   <img src="/images/scene11.png" width="360" height="537">
 </p>
 <br>
+<p align="left">
+<b>Note: The Firefox set up field 'network.proxy.socks_port' and the ConnectBot 'Port forwards' 'Source port:' field (9500 used in this tutorial) must be the same port number. It is recommended that a port number between 9000 and 10000 be used.</b>
+</p>
+<br>
 <b>G. To connect to your server, simply tap on the server name in ConnectBot (as seen in C. above).</b><br>
 <b>You should be taken to a page that request your Password.</b><br>
 <b>Use Firefox to test that your connection is actually going to your server by using an IP test site:<br>
