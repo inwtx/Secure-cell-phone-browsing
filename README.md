@@ -28,7 +28,7 @@ This spying can be circumvented with the use of the android Firefox client and t
   <img src="/images/scene3.png" width="360" height="132">
 </p>
 <br>
-<b>B. Go down the list that appears, find the various fields, and set then to those values encircled below. Disregard any additional .proxy. fields that are displayed that are not in the below list.</b>
+<b>B. Go down the list that appears, find the various fields, and set them to the values encircled below. Disregard any additional .proxy. fields that are displayed that are not in the below list.</b>
 <p align="left"><br><br>
   <img src="/images/scene4.png" width="360" height="1162">
 </p>
