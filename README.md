@@ -9,15 +9,15 @@ This spying can be circumvented with the use of the android Firefox client and t
 <b><i>I. Download instructions:</i></b>
     
   
-<b>A. Go to the Google Play Store, type Firefox in the search box, and download the Firefox browser and install it on your phone.  The one you want is outlined in the red box:</b> 
+<b>A. Go to the Google Play Store (or https://apkpure.com/ if you can't use Google Play), type Firefox in the search box, and download "Firefox Beta for Testers" and install it on your phone.</b> 
 <p align="left">
-  <img src="/images/scene1.png" width="360" height="217">
+  
 </p>
 <br>
-<b>B. Go again to the Google Play Store, type ConnectBot in the search box, and download ConnectBot and install it.</b>
+<b>B. Go again to the Google Play Store (or https://apkpure.com/ if you can't use Google Play), type ConnectBot in the search box, and download ConnectBot and install it.</b>
 <br><br>
 <p align="left">
-  <img src="/images/scene2.png" width="360" height="217">
+  
 </p>
 <br>
 <b><i>II. Firefox set up instructions:</i></b>
